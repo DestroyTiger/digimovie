@@ -55,7 +55,7 @@ border-color: #c67006;
 outline: none;
 color: rgb(255, 255, 255);
 }
-.button button{
+ button  {
     border-radius: .2rem;
     font-family: YekanBakhHeavy;
     font-size: 1em;
@@ -68,8 +68,12 @@ color: rgb(255, 255, 255);
 
 
 }
-.button button:hover{
+.top1 button:hover{
     background-color: #c67006;
+}
+
+.down button:hover{
+    background-color: #062C30;
 }
 .button{
     margin-top: 25px;
@@ -133,14 +137,14 @@ h2{
     .top button{
         width: 90vw;
     }
-     .des{
+    .des{
         width: 80vw;
     }
     .input::placeholder{
         padding: 5px 15px;
 
     }
-      .hr{
+    .hr{
         width: calc(100vw - 70px);
 
     }
