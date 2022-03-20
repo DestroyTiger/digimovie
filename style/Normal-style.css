@@ -96,7 +96,7 @@ h2{
 }
 .hr{
     height: 1px;
-    width: 410px;
+    width: calc(100vw - 70px);
     background: linear-gradient(to right, rgba(30,30,30,0.12) 0%,rgba(30,30,30,0.21) 1%,rgba(255,255,255,0.91) 9%,rgba(255,255,255,1) 10%,rgba(255,255,255,1) 90%,rgba(30,30,30,0.12) 100%);    position: absolute;
     z-index: 1;
 
