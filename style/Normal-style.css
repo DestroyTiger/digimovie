@@ -133,7 +133,11 @@ h2{
     .top button{
         width: 90vw;
     }
-    .des{
-        width: 90vw;
+     .des{
+        width: 80vw;
+    }
+    .input::placeholder{
+        padding: 5px 15px;
+
     }
 }
