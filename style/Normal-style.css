@@ -363,5 +363,23 @@ footer h3 {
 @media (max-width:400px) {
     .iteamsShow {
         height: 270px;
+        width: 250px;
+        justify-content: center;
+    }
+
+    button {
+        background-color: #0e9994c4;
+
+    }
+    header h3 {
+        max-width: 190px;
+        width: 170px;
+
+    }
+    .cantigadinfo>h3{
+        width: 71px;
+    }
+    main img{
+        margin-left: 20px;
     }
 }
